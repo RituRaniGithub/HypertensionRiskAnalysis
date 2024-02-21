@@ -2,7 +2,7 @@
 
 
 ## Power BI Report
-![HypertensionReport](https://github.com/RituRaniGithub/HypertensionRiskAnalysis/assets/97839536/257e4e98-499e-4b6c-b987-62a9e672d883)
+![ht_report](https://github.com/RituRaniGithub/HypertensionRiskAnalysis/assets/97839536/204f9c40-b24c-4749-89ea-5148ea4c2d2f)
 
 Used Power BI for the Analysis, after cleaning a total of 26,799 rows.
 
@@ -12,13 +12,13 @@ Used Power BI for the Analysis, after cleaning a total of 26,799 rows.
 3. The column “Resting Blood Pressure” didn’t mention if it was systolic or diastolic pressure so it was assumed to be systolic pressure.
 4. The groups divided were as follows.
 5.  Max-Heart Rate Achieved
-< 130, "Normal"
+(< 130, "Normal"
 130-160,” Elevated”
->160,”High”
+>160,”High”)
 6. 2) Old Peak
-<1,” Normal”
+(<1,” Normal”
 1-3,” Elevated”
->3, “Abnormal”
+>3, “Abnormal”)
 7) Serum cholesterol & Resting BP were grouped according to medical standards.
 
 ## Insights
